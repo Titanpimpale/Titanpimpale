@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Titanpimpale
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python,IT engineering,html,css,java,js,cyber security
-- 💞️ I’m looking to collaborate on python open sources
+- 👋 Hi, I’m Rohit Pimpale
+- 👀 I’m interested in python,mern stack,django AI ML ,web ,devops,mlops,cyber security and ethical hacking
+- 🌱 I’m currently learning python,IT engineering,mechine learning
+- 💞️ I’m looking to collaborate on python gsoc
 - 📫 How to reach me rohitdpimpale4@gmail.com,twitter/insta:rohitpimpale49
 
 <!---
