@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rohit Pimpale
-- 👀 I’m interested in python,mern stack,django AI ML ,web ,devops,mlops,cyber security and ethical hacking
-- 🌱 I’m currently learning python,IT engineering,mechine learning
-- 💞️ I’m looking to collaborate on python gsoc
+- 👀 I’m interested in Python,Javascrit, Flutter, AI, WEB3
+- 🌱 I’m currently learning Artifical intelligents
+- 💞️ I’m looking to collaborate on OpenAI
 - 📫 How to reach me rohitdpimpale4@gmail.com,twitter/insta:rohitpimpale49
 
 <!---
